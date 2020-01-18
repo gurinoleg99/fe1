@@ -1,0 +1,62 @@
+.item{
+    width: 200px;
+    height: 200px;
+    background: whitesmoke;
+    display: inline-block;
+    margin: 40px;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+}
+.footer{
+    width: 200px;
+    height: 40px;
+    background: grey;
+}
+.name{
+    width: 120px;
+    display: inline-block;
+    line-height: 40px;
+    font-size: 14px;
+}
+.price{
+    width: 76px;
+    display: inline-block;
+    line-height: 40px;
+}
+.item:hover .footer{
+    background: rgb(0, 255, 221);
+}
+.item:hover .img{
+    background: rgb(53, 91, 128);
+}
+.kartinka{
+    width: 200px;
+    height: 200px;}
+  .line{
+    margin-left: 15%;
+  }
+  .oter{
+    width: 400px;
+      height: 300px;
+      display: inline-block;
+  }
+  .iner{
+      width: 400px;
+      height: 300px;
+      display: inline-block;
+      padding: 10px;
+  }
+  .b{
+      width: 100px;
+      height: 50px;
+  }
+  .f{
+      margin-left: 40%;
+  }
+  .i{
+      width: 400px;
+      height: 500px;
+  }
